@@ -5,7 +5,10 @@
 
 
 
-
+:root {
+  --bg-primary: white;
+  
+}
 .navbar-brand {
   color: #F6F3ED;
 }
